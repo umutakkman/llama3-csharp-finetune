@@ -23,8 +23,9 @@ streamer = TextStreamer(tokenizer)
 model.generate(**inputs, streamer=streamer, max_new_tokens=512)
 ```
 
-[llama3.1-8b-finetuned-csharp]([https://huggingface.co/datasets/Azamorn/tiny-codes-csharp](https://huggingface.co/umutakman/llama3.1-8b-finetuned-csharp))
-[llama3.1-8b-finetuned-csharp-q4]([https://huggingface.co/datasets/Azamorn/tiny-codes-csharp](https://huggingface.co/umutakman/llama3.1-8b-finetuned-csharp-q4))
+[llama3.1-8b-finetuned-csharp](https://huggingface.co/umutakman/llama3.1-8b-finetuned-csharp)
+
+[llama3.1-8b-finetuned-csharp-q4](https://huggingface.co/umutakman/llama3.1-8b-finetuned-csharp-q4)
 
 
 
